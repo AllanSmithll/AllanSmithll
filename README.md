@@ -1,4 +1,4 @@
-<h3> 👱‍♂️: &nbsp;Sobre mim </h3>
+<h3> 👱‍♂️: &nbsp;About me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/">IFPB</a>.
@@ -9,14 +9,14 @@
 
 **Applications and Data**
 
-  ![Python](https://img.shields.io/badge/-Python-333333?logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-333333?logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-C%23-333333?logo=c-sharp&logoColor=white&style=flat)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?logo=angular&logoColor=FFFFFF&style=flat)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?logo=angular&logoColor=red&style=flat)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
