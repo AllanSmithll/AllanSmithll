@@ -10,7 +10,7 @@
 **Applications and Data**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/endpoint?label=Python&logo=Python&logoColor=4B8BBE&url=%2F-Python-4B8BBE)
+  ![Python](https://img.shields.io/badge/-Python-333333?logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
