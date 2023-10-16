@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/">IFPB</a>.
 - 💼 &nbsp; Looking for new opportunities in Software Development.
-- 🌱 &nbsp; Learning more about **Java, Typescript, SASS, C#, React, Angular, AWS and AI**.
+- 🌱 &nbsp; Learning more about **Java, Typescript, Go, SASS, C#, React, Angular, AWS and AI**.
 
 <h3> :rocket: &nbsp;My Skills</h3>
 
@@ -11,9 +11,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
