@@ -52,6 +52,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-A1A12E?style=for-the-badge&logo=pycharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-02CCD8?style=for-the-badge&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FD2F5D?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Goland](https://img.shields.io/badge/Goland-FD2F5D?style=for-the-badge&logo=goland&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
