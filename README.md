@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/">IFPB</a>.
 - 💼 &nbsp; Looking for new opportunities in Software Development.
-- 🌱 &nbsp; Learning more about **Go, SASS, C#, React, Angular, AWS, PHP, Django and AI**.
+- 🌱 &nbsp; Learning more about **Go, SASS, C#, React, Angular, AWS, PHP, Django, Spring Boot and AI**.
 
 <h3> :rocket: &nbsp;My Skills</h3>
 
