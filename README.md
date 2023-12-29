@@ -21,8 +21,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring BOOT](https://img.shields.io/badge/-spring-58DF02?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/-django-000000?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Data**
