@@ -32,6 +32,7 @@
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+[![json-server](https://img.shields.io/badge/json--server-5368725?style=for-the-badge&logo=json&logoColor=white)](https://github.com/typicode/json-server)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA2C?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Cloud Computing**
@@ -42,6 +43,7 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
 ![Batch](https://img.shields.io/badge/-Batch-4EAA25?style=for-the-badge&logo=windows&logoColor=white)
 
 **DevOps**
