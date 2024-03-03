@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/">IFPB</a>.
 - 💼 &nbsp; Looking for new opportunities in Software Development.
-- 🌱 &nbsp; Learning more about **Go, SASS, C#, React, Angular, AWS, PHP, Django, Spring Boot and AI**.
+- 🌱 &nbsp; Learning more about **Go, Kotlin, SASS, C#, React, AWS, PHP, Django, Spring Boot and AI**.
 
 <h3> :rocket: &nbsp;My Skills</h3>
 
@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=FFA500)](https://kotlinlang.org/)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
