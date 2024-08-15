@@ -2,8 +2,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/">IFPB</a>.
-- 💼 &nbsp; Looking for new opportunities in Software Development.
-- 🌱 &nbsp; Learning more about **Go, Kotlin, SASS, C#, React, AWS, PHP, Django, Spring Boot and AI**.
+- 💼 &nbsp; Intern at the Administration Secretariat of the State of Paraiba.
+- 🌱 &nbsp; Learning more about **Go, Kotlin, C#, React, Django**.
 
 <h3> :rocket: &nbsp;My Skills</h3>
 
