@@ -2,8 +2,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Internet Systems at <a href="https://www.ifpb.edu.br/">IFPB</a>.
-- 💼 &nbsp; Intern at the Administration Secretariat of the State of Paraiba.
-- 🌱 &nbsp; Learning more about **Go**.
+- 💼 &nbsp; Intern at Assert IFPB.
+- 🌱 &nbsp; Learning more about **Go**, **Docker**, **Flask**.
 
 <h3> :rocket: &nbsp;My Skills</h3>
 
